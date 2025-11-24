@@ -1,2 +1,2 @@
 # bootstrap-file-
-jquar +
+jquary +
